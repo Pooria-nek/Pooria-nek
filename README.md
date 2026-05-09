@@ -1,9 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on IoT mesh systems.  
-🌱 I’m currently learning Swift.  
-💬 Feel free to ask me about tech!
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pooria_nek) 
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/Pooria_nek)
